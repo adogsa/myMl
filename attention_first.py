@@ -1,3 +1,9 @@
+"""
+참고 : https://github.com/philipperemy/keras-attention-mechanism
+"""
+
+
+
 import numpy as np
 from keras import backend as K
 from keras import models
